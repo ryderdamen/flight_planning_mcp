@@ -4,10 +4,8 @@ An MCP (Model Context Protocol) server for retrieving flight planning and aviati
 **Important:** This is an experimental project and should not be relied upon for flight planning or mission critical situations. This server is designed for experimental and entertainment purposes only.
 
 
-<video width="100%" controls>
-  <source src="misc/example_use.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/10ffe522-e048-4a35-8f1f-c92531b1a306
+
 
 ---
 
