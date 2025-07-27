@@ -1,5 +1,5 @@
-# Aviation MCP Server
-An MCP (Model Context Protocol) server for retrieving Aviation weather data from aviationweather.gov's data API.
+# Flight Planning MCP Server
+An MCP (Model Context Protocol) server for retrieving flight planning and aviation data from a variety of sources.
 
 **Important:** This is an experimental project and should not be relied upon for flight planning or mission critical situations. This server is designed for experimental and entertainment purposes only.
 
